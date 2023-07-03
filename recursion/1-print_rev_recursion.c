@@ -15,4 +15,4 @@ void _print_rev_recursion(char *s)
 	/*Llama a la función recursivamente pasando la siguiente posición en la cadena*/
         _putchar(*s); /*Imprime el caracter actual*/
     }
-}}
+}
